@@ -1,0 +1,190 @@
+.main_background{
+	margin-top: -8px;
+	margin-left: -0.55%;
+	margin-right: -0.55%;
+
+}
+.main_films{
+	margin-top: 12px;
+	margin-left: 5.7%;
+	color: #ffff;
+	font-size: 31px;
+	font-weight: bold;
+	letter-spacing: 3px;
+}
+body{
+	background: url(img/junglebook.png);
+	background-size: 100%;
+	font-family: 'Open Sans', sans-serif;
+
+}
+.main_search{
+	color: #ffff;
+
+  border-radius: 6px;
+  cursor: pointer;
+letter-spacing: 1px;
+font-size: 17px;
+  width: 21.2%;
+ 
+  padding: 7px 0 9px 12px;
+  font-weight: bold;
+  border: solid #ffff;
+  margin-top: -36px;
+  margin-left: 72.8%;
+}
+.main_middle_right_txt{
+	background-color: black;
+ /* opacity: 0.122;*/
+  color: #ffff;
+  margin-left: 68.3%;
+  font-size: 16px;
+  font-weight: 700;
+width: 28%;
+  background: url(img/Overlay.png);
+  background-size: 100%;
+  padding: 15px 15px 15px 20px;
+  line-height: 1.714;
+}
+.main_middle{
+	margin-top: 365px;
+}
+.main_middle_left{
+	margin-left: 5%;
+	margin-top: 85px;
+	width: 40%;
+	height: 100%;
+}
+.main_middle{
+	display: flex;
+}
+.main_middle_left_small{
+	display: flex;
+}
+.main_middle_left_big{
+	color: #ffff;
+	font-weight: 800;
+	font-size: 43px;
+}
+.main_middle_left_small_adventure{
+
+    color: #ffff;
+    font-size: 14px;
+	font-weight: bold;
+}
+.main_middle_left_small_drama{
+	color: #ffff;
+	margin-left: 5%;
+	font-size: 14px;
+	font-weight: bold;
+}
+.main_middle_left_small_family{
+	color: #ffff;
+	margin-left: 5%;
+	font-size: 14px;
+	font-weight: bold;
+}
+.main_middle_left_small_fantasy{
+	color: #ffff;
+	margin-left: 5%;
+	font-size: 14px;
+	font-weight: bold;
+}
+.main_middle_left_small_slash{
+	color: #ffff;
+	margin-left: 5%;
+	font-size: 20px;
+	font-weight: bold;
+	margin-top: -5px;
+}
+.main_middle_left_small_time{
+	color: #ffff;
+	margin-left: 5%;
+	font-size: 14px;
+	font-weight: bold;
+}
+.main_end_left{
+	display: flex;
+	margin-left: 4.8%;
+	margin-top: 24px;
+
+}
+.main_end_left_txt{
+	color: #ffff;
+
+  border-radius: 4px;
+letter-spacing: 1px;
+font-size: 14px;
+  width: 29px;
+ 
+  padding: 0 0 1px 7px;
+  font-weight: bold;
+  border: 2px solid #0aaee4;
+  margin-top: 1px;
+  height: 20px;
+}
+.main_end_left_star2{
+	margin-left: -1%;
+	height: 35px;
+}
+.main_end_left_star3{
+	margin-left: -1%;
+	height: 35px;
+}
+.main_end_left_star4{
+	margin-left: -1%;
+	height: 35px;
+}
+.main_end_left_star5{
+	margin-left: -1%;
+	height: 35px;
+}
+.main_end_left_star1{
+	height: 35px;
+}
+.main_end_right_watch{
+color: #f3f6f9;
+  border-radius: 4px;
+  background-color: #0aaee4;
+  cursor: pointer;
+  width: 90px;
+  text-align: center;
+  padding: 10px 15px 0 18px;
+  font-weight: bold;
+  height: 30px;
+  letter-spacing: 1px;
+  font-size: 15px;
+}
+.main_end_right_view{
+	color: #ffff;
+
+  border-radius: 4px;
+  cursor: pointer;
+
+ height: 28px;
+  letter-spacing: 1px;
+  font-size: 15px;
+  width: 90px;
+  text-align: center;
+   padding: 7px 15px 0 18px;
+  font-weight: bold;
+  border: solid #ffff;
+  margin-left: 26px;
+}
+.main_end_right{
+	display: flex;
+	margin-left: 56.5%;
+	margin-top: 25px;
+}
+.main_end{
+	display: flex;
+}
+.main_search_icon{
+margin-left: 48%;
+height: 10px;
+width: 10px;
+margin-top: 2px;
+}
+.main_search{
+	display: flex;
+}
